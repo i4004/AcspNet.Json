@@ -1,4 +1,6 @@
 .NET (4.5) [![Build status](https://ci.appveyor.com/api/projects/status/dvk19mkf6ry0lock/branch/master)](https://ci.appveyor.com/project/i4004/acspnet-json/branch/master) Mono (3.8.0) [![Travis build status](https://travis-ci.org/i4004/AcspNet.Json.png?branch=master)](https://travis-ci.org/i4004/AcspNet.Json)
+
+[![NuGet Status](http://nugetstatus.com/AcspNet.Json.png)](http://nugetstatus.com/packages/AcspNet.Json)
 [![Nuget version](http://img.shields.io/badge/nuget-v1.0.3-blue.png)](https://www.nuget.org/packages/AcspNet.Json/)
 
 ---
