@@ -23,6 +23,8 @@ namespace AcspNet.Responses
 		/// </summary>
 		public override ControllerResponseResult Process()
 		{
+			Context.Response.ContentType = "application/json";
+
 			ResponseWriter.Write(JsonConvert.SerializeObject(_objectToConvert), Context.Response);
 
 			return ControllerResponseResult.RawOutput;
