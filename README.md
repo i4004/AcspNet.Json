@@ -1,4 +1,4 @@
-AcspNet.Json
+AcspNet.Json [Obsolete]
 ===
 
 `AcspNet.Json` is a package which provides JSON controller response for controllers and JSON view model binder for [AcspNet web-framework](https://github.com/i4004/AcspNet).
