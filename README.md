@@ -1,6 +1,8 @@
 AcspNet.Json [Obsolete]
 ===
 
+This project is renamed to "Simplify.Web.Json" and moved to https://github.com/i4004/Simplify.Web.Json
+
 `AcspNet.Json` is a package which provides JSON controller response for controllers and JSON view model binder for [AcspNet web-framework](https://github.com/i4004/AcspNet).
 
 ## Package status
